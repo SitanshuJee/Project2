@@ -1,4 +1,4 @@
 # New Project
 
-This project was created from local system
-Created by me
+This project was created from local system.
+Created by Sitanshu Jee.
